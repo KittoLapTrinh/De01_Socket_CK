@@ -9,6 +9,7 @@
 ![image](https://github.com/KittoLapTrinh/De01_Socket_CK/assets/96908923/65fdfd56-142e-4664-b1dd-737ad042e9e3)
 
 # Setup Persistence.xml
+```
 <?xml version="1.0" encoding="UTF-8"?>
 <persistence version="2.2" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd">
 	 <persistence-unit name="jpa-mssql">
@@ -25,4 +26,5 @@
         </properties>
     </persistence-unit>
 </persistence>
+```
 
